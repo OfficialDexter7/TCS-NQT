@@ -32,7 +32,6 @@ class RowWithMaxOnes {
                 index = i;
             }
         }
-
         System.out.println(index+1);
     }
 }
